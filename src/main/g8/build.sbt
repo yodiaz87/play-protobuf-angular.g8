@@ -1,4 +1,4 @@
-name := """ncl-play-angular-seed"""
+name := """$name$"""
 
 version := "1.0-SNAPSHOT"
 
